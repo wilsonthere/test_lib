@@ -7,7 +7,7 @@
   "description": "test on jud lib",
   "scripts": {
     "rollup": "rollup -c"
-  },
+  }, 
   "author": "",
   "license": "ISC",
   "devDependencies": {
